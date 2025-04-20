@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sefbar.me/robofriends/",
+  "homepage": "https://sefbar.github.io/robofriends/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
